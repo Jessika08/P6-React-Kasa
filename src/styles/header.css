@@ -1,0 +1,16 @@
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav {
+     display: flex;
+    align-items: flex-end;
+    text-align: right;
+}
+.nav a , .nav a:visited {
+    font-size: 24px;
+    color: #FF6060;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
